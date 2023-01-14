@@ -14,13 +14,13 @@
     Experience with:
 </h3>
 <h4 align="center">
-    Intermediate - Advanced
+    Tools I use or would like to use regularly:
 </h4>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=js,html,css,react,ts,express,nodejs,mongodb" alt="">
 </div>
 <h4 align="center">
-    Beginner - Intermediate
+    Other tools I love using:
 </h4>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=angular,azure,bootstrap,c,docker,firebase,git,ps" alt="">
