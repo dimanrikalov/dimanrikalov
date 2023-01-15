@@ -5,7 +5,7 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="25" height="25" /> Studying For Bachelor's in Computer Engineering and Front-End/MERN Stack Developer 🧑‍💻 
 </h3>
 <h4 align="center">
-    Connect with me: https://linktr.ee/dimanrikalov 
+    Connect with me: https://dimanrikalov-portfolio.web.app/index.html# 
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" />
 </h4>
 
