@@ -6,7 +6,7 @@
 </h3>
 <h4 align="center">
     Connect with me: 
-    https://diman-rikalov.web.app (Not mobile ready)
+    https://diman-rikalov.web.app
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" />
 </h4>
 
