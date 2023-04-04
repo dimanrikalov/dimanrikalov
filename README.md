@@ -28,5 +28,5 @@
     Other tools I like using:
 </h4>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=angular,azure,bootstrap,c,docker,firebase,git,ps" alt="">
+    <img src="https://skillicons.dev/icons?i=c,cpp,angular,firebase,git,ps,docker" alt="">
 </div>
