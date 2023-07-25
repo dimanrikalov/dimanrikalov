@@ -2,7 +2,7 @@
     Hi, I'm Diman! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
 </h1>
 <h3 align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="25" height="25" /> Studying For Bachelor's in Computer Engineering and Front-End/MERN Stack Developer 🧑‍💻 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="25" height="25" /> Studying for Bachelor's in Computer Engineering and Front-End/Full-Stack Developer 🧑‍💻 
 </h3>
 <h4 align="center">
     Reach me: 
