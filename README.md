@@ -22,11 +22,11 @@
     Tools I use or would love to use regularly:
 </h4>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,ts,express,nodejs,mongodb" alt="">
+    <img src="https://skillicons.dev/icons?i=ts,react,redux,github,nestjs,express,firebase,mongodb,postman" alt="">
 </div>
 <h4 align="center">
-    Other tools I like using:
+    Other tools I like:
 </h4>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,angular,firebase,git,ps,docker" alt="">
+    <img src="https://skillicons.dev/icons?i=c,cpp,graphql,angular,postgres,ps,docker" alt="">
 </div>
